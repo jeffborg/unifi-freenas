@@ -123,5 +123,5 @@ fi
 
 # Start it up:
 echo -n "Starting the unifi service..."
-/usr/sbin/service unifi start
+/usr/sbin/service unifi.sh start
 echo " done."
